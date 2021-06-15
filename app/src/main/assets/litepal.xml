@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+
+    <dbname value="liushuang_weather" />
+
+    <version value="1" />
+
+    <list>
+        <mapping class="com.liushuang.weather.db.Province" />
+        <mapping class="com.liushuang.weather.db.City" />
+        <mapping class="com.liushuang.weather.db.County" />
+    </list>
+
+</litepal>
